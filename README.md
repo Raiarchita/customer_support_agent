@@ -1,0 +1,4 @@
+I designed an AI Customer Support Agent Workflow to efficiently handle queries in educational and administrative contexts. This workflow involves understanding customer queries, classifying them by type, and analyzing sentiment to determine whether to respond, route, or escalate the request. LangGraph is used for managing stateful, multi-turn interactions, ensuring seamless conversation flow. Additionally, Groq + LLaMA 3 has been integrated to provide fast and accurate language model responses. To enhance user experience, LangChain is utilized for prompt templating, chaining, and maintaining conversation continuity, allowing for more natural and effective interactions.
+![image](https://github.com/user-attachments/assets/1b565df0-41fc-4548-a531-9104d7cb575f)
+![image](https://github.com/user-attachments/assets/fccde0be-7252-47a0-96d2-afb728761463)
+
